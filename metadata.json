@@ -1,0 +1,9 @@
+{
+  "name": "SubnetMaster",
+  "description": "IPv4, IPv6 Subnetting & Supernetting Made Simple. Comprehensive calculator for CIDR, VLSM, wildcard masks, route aggregation, and EUI-64.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
